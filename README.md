@@ -13,7 +13,6 @@
   <img src="https://skillicons.dev/icons?i=vite" alt="vite logo" title="Vite" height="50" hspace="10" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm logo" title="npm" height="50" hspace="10" />
   <img src="https://skillicons.dev/icons?i=git" alt="git logo" title="Git" height="50" hspace="10" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" title="VS Code" height="50" hspace="10" />
 </p>
